@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/Codefest_AD_Astra_Final_Mision_1-2024.dir/main.cpp.o" -o /home/jaraction/Downloads/Codefest_AD_Astra_Final_Mision_1-2024-main/main  libCryptoLib.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

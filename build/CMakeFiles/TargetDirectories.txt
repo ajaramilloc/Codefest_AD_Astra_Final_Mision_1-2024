@@ -1,0 +1,4 @@
+/home/jaraction/Downloads/Codefest_AD_Astra_Final_Mision_1-2024-main/build/CMakeFiles/CryptoLib.dir
+/home/jaraction/Downloads/Codefest_AD_Astra_Final_Mision_1-2024-main/build/CMakeFiles/Codefest_AD_Astra_Final_Mision_1-2024.dir
+/home/jaraction/Downloads/Codefest_AD_Astra_Final_Mision_1-2024-main/build/CMakeFiles/edit_cache.dir
+/home/jaraction/Downloads/Codefest_AD_Astra_Final_Mision_1-2024-main/build/CMakeFiles/rebuild_cache.dir
